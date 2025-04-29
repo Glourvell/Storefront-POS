@@ -1,0 +1,133 @@
+body{
+    background: #9bd2e8;
+    background: linear-gradient(90deg, rgba(155, 210, 232, 1) 0%, rgba(255, 120, 133, 1) 50%, rgba(237, 83, 232, 1) 100%);
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color:white;
+}
+
+/* taskbox */
+/* .taskbar{
+    display: flex;
+}
+.task-box{
+    border:2px solid  rgb(116, 214, 253);
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+
+.picha{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    
+}
+.maneno{
+
+}
+ */
+
+
+
+
+
+h2{
+    font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;   
+        text-align: center;
+}
+
+h3{
+        font-family: "Cal Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rows{
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    width:400px;
+    height:420px;
+    border:none;
+    border-radius:25px;
+    background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+    align-items: center;
+    align-content:normal;
+    
+}
+
+.word-row{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: flex-start; */
+}
+.inner{
+    /* From https://css.glass */
+background-color: white;
+
+
+    width: 345px;
+    height: 300px;
+    margin-left: 25px;
+    margin-top: 15px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.words{
+    padding-left:20px;
+}
+.price{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.products{
+    justify-content: space-around;
+}
+
+/* button */
+.view{
+    
+    margin-top: 10px;
+    border-radius: 15px;
+    background-color: orange;
+    border: 1px solid ;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight:300; */
+    font-size: larger;
+    font-style: normal;
+    text-align: none;
+    text-align: center;
+}
+a {
+    color:white;
+    text-decoration: none;
+}
