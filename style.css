@@ -11,49 +11,17 @@ h1{
     text-align: center;
     color:white;
 }
-
-/* taskbox */
-/* .taskbar{
-    display: flex;
-}
-.task-box{
-    border:2px solid  rgb(116, 214, 253);
-    border-radius: 25px;
-    width: 150px;
-    height: 150px;
-    background-color: white;
-}
-
-.picha{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-top: 10px;
-    
-}
-.maneno{
-
-}
- */
-
-
-
-
-
 h2{
     font-family: "Bebas Neue", sans-serif;
         font-weight: 400;
         font-style: normal;   
         text-align: center;
 }
-
 h3{
         font-family: "Cal Sans", sans-serif;
         font-weight: 400;
         font-style: normal;
     }
-
-
 .logo{
     display: flex;
     align-items: center;
@@ -82,13 +50,9 @@ border: 1px solid rgba(255, 255, 255, 0.3);
 .word-row{
     display: flex;
     justify-content: space-around;
-    /* align-items: flex-start; */
 }
 .inner{
-    /* From https://css.glass */
 background-color: white;
-
-
     width: 345px;
     height: 300px;
     margin-left: 25px;
@@ -110,10 +74,8 @@ background-color: white;
 .products{
     justify-content: space-around;
 }
-
 /* button */
 .view{
-    
     margin-top: 10px;
     border-radius: 15px;
     background-color: orange;
@@ -121,7 +83,6 @@ background-color: white;
     color: white;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
-    /* font-weight:300; */
     font-size: larger;
     font-style: normal;
     text-align: none;
